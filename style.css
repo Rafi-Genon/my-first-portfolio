@@ -13,6 +13,7 @@ H2{
     text-align: center;
     padding-top: 120px;
     padding-bottom: 70px;
+    margin-top: 0;
 }
 p{
     
@@ -161,6 +162,35 @@ footer section h3{
     width: 3%;
 }
 #icon-mid{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.skill{
+    background-color:#bfffff ;
+    height: 500px;
+}
+#artical{
+height: 900px;
+background-color: #90fff95e;
+}
+.artical-item-h2{
+    color: #0051ff;
+    font-size: 25px;
+    padding: 0;
+    margin:10px 5px;
+    text-align: left;
+}
+.artical-item{
+    padding: 15px;
+    width: 24%;
+    background-color: white;
+    height: 45%;
+    float: left;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow:10px 10px 40px #acabab;
+}
+#artical-mid{
     margin-left: 2%;
     margin-right: 2%;
 }
