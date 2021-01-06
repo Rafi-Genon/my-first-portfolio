@@ -74,7 +74,7 @@ img{
     float: left;
     align-items: center;
     border-radius: 20px;
-    box-shadow:10px 10px 40px #d4d4d4;
+    box-shadow:10px 10px 40px #acabab;
 }
 #project2{
     margin-left: 2%;
@@ -91,4 +91,35 @@ img{
     font-weight: 100;
     margin-left: 5px;
 }
-.
+#work-inquary{
+    height: 350px;
+}
+.work-inquary-img{
+    height: 60%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+#bg{
+    background-image: url(images/Group_33094_1.png);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#bg-content{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#bg a{
+    margin-left: px;
+    display: inline-block;
+    background-color: #ff6d33;
+
+}
+#bg h1{
+    display: inline;
+    color: white;
+    font-size: 50px;
+}
